@@ -2,7 +2,7 @@
 font-family = "Maple Mono NF CN SemiBold"
 font-family = "JetBrains Maple Mono"
 font-family = "LXGW WenKai GB Screen"
-font-size = 12
+font-size = 11
 
 # 行为
 copy-on-select = clipboard
